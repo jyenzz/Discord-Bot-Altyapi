@@ -10,5 +10,7 @@ Komutlarınız varsa `komutlar` dosyasına ekleyebilirsiniz.
 
 • Yardım/Destek
 > Discord Adresim: Jyen#8551
+
 > Discord Sunucum: VAA2ugA
+
 > Instagram: 0jyen
