@@ -1,5 +1,6 @@
-# Discord-Bot-Altyapi
+# Hazır Discord Bot Altyapısı
 Başlangıç seviyesinde hazır bot altyapısı.
+Komutlarınız varsa `komutlar` dosyasına ekleyebilirsiniz.
 
-**• Komutlar**
-> Sohbet temizleme. // Sil.js
+• Kurulumu
+`ayarlar.json` dosyasına bilgileri doğru girdiğiniz zaman direk çalışır.
