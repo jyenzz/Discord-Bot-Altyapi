@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot-altyapi",
+  "version": "0.0.1",
+  "description": "Tak kullan tadında bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.4.2",
+    "quick.db": "7.0.0-b22",
+    "fs": "0.0.1-security",
+    "parse-ms": "^2.1.0",
+    "canvas": "^2.6.0",
+    "dblapi.js": "^2.4.0",
+    "superagent": "^5.0.5",
+    "express": "^4.16.4",
+    "snekfetch": "^4.0.4",
+    "moment": "^2.25.3",
+    "ms": "^2.1.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT"
+}
